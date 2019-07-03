@@ -2,7 +2,7 @@
 
 This document is meant as a supplement to our Installing Python series:
 
-- [Installing Python for macOS](https://github.com/stanfordpython/python-handouts/blob/master/installing-python-macos.md)
+- [Installing Python for macOS](https://github.com/Efsilvaa/EPS7001/blob/master/installing-python-macos.md)
 - [Installing Python for Linux](https://github.com/stanfordpython/python-handouts/blob/master/installing-python-linux.md)
 - [Installing Python for Windows](https://github.com/stanfordpython/python-handouts/blob/master/installing-python-windows.md)
 
