@@ -1,10 +1,20 @@
-## Bem Vindos EPS7000/EPS7001
+## Bem Vindos
 
-Essa é uma página de apoio auxiliar para os cursos EPS7000/EPS7001 do Prof. Eduardo F. Silva.
+Essa é uma página de auxiliar para apoio aos cursos EPS7000/EPS7001 do Prof. Eduardo F. Silva (EPS-CTC-UFSC).
 
+## Salas de Conferências alternativas
 
+1. [RNP](https://conferenciaweb.rnp.br/webconf/eduardo-ferreira-da): Rede Nacional RNP       
+2. [Jit.si SETIC](https://reunioes.setic.ufsc.br/EduardoFSilva):  Jit.si instalado em servidores SETIC
+3. [Jit.si EXTERNO](https://meet.jit.si/EduardoFSilva):Jit.si externo, independente
 
-## Bem VindosPágina de apoio para o curso EPS7001: Introdução a Welcome to GitHub Pages
+## Avisos corrente
+
+Link alternativo ativo: 3. **Jit.si EXTERNO**
+
+----- desconsiderar abaixo -----
+
+Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Efsilvaa/EPS7001/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
