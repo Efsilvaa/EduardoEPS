@@ -9,9 +9,9 @@ Essa é uma página de auxiliar para apoio aos cursos EPS7000/EPS7001 do Prof. E
 3. [Jit.si EXTERNO](https://meet.jit.si/EduardoFSilva):Jit.si externo, independente
 
 ## Aviso corrente
-Link alternativo ativo: 3. **Jit.si EXTERNO**
+> Link alternativo ativo: 3. **Jit.si EXTERNO**
 
------ desconsiderar abaixo -----
+## Desconsiderar informações abaixo 
 
 Welcome to GitHub Pages
 
