@@ -9,7 +9,12 @@ Essa é uma página de auxiliar para apoio aos cursos EPS7000/EPS7001 do Prof. E
 3. [Jit.si EXTERNO](https://meet.jit.si/EduardoFSilva):Jit.si externo, independente
 
 ## Aviso corrente
+### EPS7001
+Inicialmente vamos tentar pelo moodle.
 > Link alternativo ativo: 3. **Jit.si EXTERNO**
+
+### EPS7000
+  Nenhum
 
 ## Desconsiderar informações abaixo 
 
