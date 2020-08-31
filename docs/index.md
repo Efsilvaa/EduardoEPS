@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+## Bem Vindos EPS7000/EPS7001
 
-You can use the [editor on GitHub](https://github.com/Efsilvaa/EPS7001/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Essa é uma página de apoio auxiliar para os cursos EPS7000/EPS7001 do Prof. Eduardo F. Silva.
+
+
+
+## Bem VindosPágina de apoio para o curso EPS7001: Introdução a Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/Efsilvaa/EPS7001/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
