@@ -8,16 +8,18 @@ Essa é uma página de auxiliar para apoio aos cursos EPS7000/EPS7001 do Prof. E
 2. [Jit.si SETIC](https://reunioes.setic.ufsc.br/EduardoFSilva):  Jit.si instalado em servidores SETIC
 3. [Jit.si EXTERNO](https://meet.jit.si/EduardoFSilva):Jit.si externo, independente
 
-## Aviso corrente
-### EPS7001
-Próxima aula síncrona 08/Set.
-
-> Link alternativo ativo: 3. **Jit.si EXTERNO**
+## Avisos correntes
 
 ### EPS7000
 
 > Link alternativo ativo: 3. **Jit.si EXTERNO**
 
+### EPS7001
+Próxima aula síncrona 08/Set.
+
+> Link alternativo ativo: 3. **Jit.si EXTERNO**
+  
+----
 ## Desconsiderar informações abaixo 
 
 Welcome to GitHub Pages
