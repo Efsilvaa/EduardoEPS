@@ -10,11 +10,13 @@ Essa é uma página de auxiliar para apoio aos cursos EPS7000/EPS7001 do Prof. E
 
 ## Aviso corrente
 ### EPS7001
-Inicialmente vamos tentar pelo moodle.
+Próxima aula síncrona 08/Set.
+
 > Link alternativo ativo: 3. **Jit.si EXTERNO**
 
 ### EPS7000
-  Nenhum
+
+> Link alternativo ativo: 3. **Jit.si EXTERNO**
 
 ## Desconsiderar informações abaixo 
 
