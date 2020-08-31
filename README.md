@@ -1,2 +1,4 @@
-# EPS7001
-Material para o curso EPS7001
+# Prof. Eduardo F. Silva
+
+Página Web de apoio
+Material para os cursos EPS7000/EPS7001
