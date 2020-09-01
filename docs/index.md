@@ -11,7 +11,7 @@ Essa é uma página de auxiliar para apoio aos cursos EPS7000/EPS7001 do Prof. E
 ## Avisos correntes
 
 ### EPS7000
-
+Aula 01/Set(1510hs) usará o link abaixo:
 > Link alternativo ativo: 3. **Jit.si EXTERNO**
 
 ### EPS7001
