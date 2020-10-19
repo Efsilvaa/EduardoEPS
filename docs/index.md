@@ -15,8 +15,8 @@ Aula 01/Set(1510hs) usará o link abaixo:
 > Link alternativo ativo: 3. **Jit.si EXTERNO**
 
 ### EPS7001
-Próxima aula síncrona 08/Set.
-
+Próxima aula síncrona 19/Out.
+Se não conseguirmos no moodle!
 > Link alternativo ativo: 3. **Jit.si EXTERNO**
   
 ----
