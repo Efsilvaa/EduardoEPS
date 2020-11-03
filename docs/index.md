@@ -19,8 +19,11 @@ Se não conseguirmos no moodle!
 > Link alternativo ativo: 3. **Jit.si EXTERNO**
 
 ### Links para trabalhos EPS7001
+
 [Grupo 1](https://efsilvaa.github.io/MLRTemplate/): Teste página dos trabalhos
+
 ----
+
 ## Desconsiderar informações abaixo 
 
 Welcome to GitHub Pages
