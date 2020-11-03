@@ -8,17 +8,18 @@ Essa é uma página de auxiliar para apoio aos cursos EPS7000/EPS7001 do Prof. E
 2. [Jit.si SETIC](https://reunioes.setic.ufsc.br/EduardoFSilva):  Jit.si instalado em servidores SETIC
 3. [Jit.si EXTERNO](https://meet.jit.si/EduardoFSilva):Jit.si externo, independente
 
-## Avisos correntes
-
-### EPS7000
+----
+## EPS7000
 Aula 01/Set(1510hs) usará o link abaixo:
 > Link alternativo ativo: 3. **Jit.si EXTERNO**
 
-### EPS7001
+## EPS7001
 Próxima aula síncrona 19/Out.
 Se não conseguirmos no moodle!
 > Link alternativo ativo: 3. **Jit.si EXTERNO**
-  
+
+### Links para trabalhos EPS7001
+[Grupo 1](https://efsilvaa.github.io/MLRTemplate/): Teste página dos trabalhos
 ----
 ## Desconsiderar informações abaixo 
 
