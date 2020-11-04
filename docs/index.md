@@ -20,7 +20,7 @@ Se não conseguirmos no moodle!
 
 ### Links para trabalhos EPS7001
 
-[Grupo 1](https://efsilvaa.github.io/MLRTemplate/): Teste página dos trabalhos
+[Grupo 1](EPS7001_Trabalhos_2020-1/ex_introR.html): Teste página dos trabalhos
 
 ----
 
