@@ -20,7 +20,10 @@ Se não conseguirmos no moodle!
 
 ### Links para trabalhos EPS7001
 
-[Grupo 1](EPS7001_Trabalhos_2020-1/ex_introR.html): Teste página dos trabalhos
+[Grupo 1](EPS7001_Trabalhos_2020-1/ex_introR.html): Ana Cortes, Bárbara e Maria Eugênia
+[Grupo 2](EPS7001_Trabalhos_2020-1/ex_introR.html): Lucas de Melo e Guilherme Neckel
+[Grupo 3](EPS7001_Trabalhos_2020-1/ex_introR.html): Luisa Maestrelli, Kárin e Alícia
+[Grupo 4](EPS7001_Trabalhos_2020-1/ex_introR.html): Rodrigo, Arthur e Eduardo Letti
 
 ----
 
