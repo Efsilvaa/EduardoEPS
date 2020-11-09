@@ -20,10 +20,20 @@ Se não conseguirmos no moodle!
 
 ### Links para trabalhos EPS7001
 
-- [Grupo 1](EPS7001_Trabalhos_2020-1/ex_introR.html): Ana Cortes, Bárbara e Maria Eugênia
-- [Grupo 2](EPS7001_Trabalhos_2020-1/ex_introR.html): Lucas de Melo e Guilherme Neckel
-- [Grupo 3](EPS7001_Trabalhos_2020-1/ex_introR.html): Luisa Maestrelli, Kárin e Alícia
-- [Grupo 4](EPS7001_Trabalhos_2020-1/ex_introR.html): Rodrigo, Arthur e Eduardo Letti
+- [Grupo 1: GitHub](EPS7001_Trabalhos_2020-1/ex_introR.html): Ana Cortes, Bárbara e Maria Eugênia
+    - Conceitos básicos e disponibilização de html (github pages)
+- [Grupo 2: NumPy](EPS7001_Trabalhos_2020-1/ex_introR.html): Lucas de Melo e Guilherme Neckel
+    - Conceitos básicos, arrays/matrizes e geração de números aleatórios
+- [Grupo 3: MatPlotLib](EPS7001_Trabalhos_2020-1/ex_introR.html): Luisa Maestrelli, Kárin e Alícia
+    - Pacote pyplot
+- [Grupo 4: Networkx](EPS7001_Trabalhos_2020-1/ex_introR.html): Rodrigo, Arthur e Eduardo Letti
+    - Criação e plotagem de grafos
+- [Grupo 5: Plotnine](EPS7001_Trabalhos_2020-1/ex_introR.html): 
+    - Alternativa ao MatPlotLib
+    - Conceitos básicos
+- [Grupo 6: -Pacote Livre-](EPS7001_Trabalhos_2020-1/ex_introR.html): 
+- [Grupo 7: -Pacote Livre-](EPS7001_Trabalhos_2020-1/ex_introR.html): 
+
 
 ----
 
