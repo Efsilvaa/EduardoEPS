@@ -28,10 +28,10 @@ Se não conseguirmos no moodle!
     - Pacote pyplot
 - [Grupo 4: Networkx](EPS7001_Trabalhos_2020-1/ex_introR.html): Rodrigo, Arthur e Eduardo Letti
     - Criação e plotagem de grafos
-- [Grupo 5: Plotnine](EPS7001_Trabalhos_2020-1/ex_introR.html): 
+- [Grupo 5: Plotnine](EPS7001_Trabalhos_2020-1/ex_introR.html): Luiz Henrique, Felipe Oliveira e Eduardo Daniel
     - Alternativa ao MatPlotLib
     - Conceitos básicos
-- [Grupo 6: -Pacote Livre-](EPS7001_Trabalhos_2020-1/ex_introR.html): 
+- [Grupo 6: - Simpy ????-](EPS7001_Trabalhos_2020-1/ex_introR.html): Daniela, Tainá e Vitória
 - [Grupo 7: -Pacote Livre-](EPS7001_Trabalhos_2020-1/ex_introR.html): 
 
 
