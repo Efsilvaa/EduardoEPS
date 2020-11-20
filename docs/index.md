@@ -22,7 +22,7 @@ Se não conseguirmos no moodle!
 
 - [Grupo 1: GitHub](https://mariaeugeniamartins.github.io): Ana Cortes, Bárbara e Maria Eugênia
     - Conceitos básicos e disponibilização de html (github pages)
-- [Grupo 2: NumPy](EPS7001_Trabalhos_2020-1/ex_introR.html): Lucas de Melo, Guilherme Neckel e Sabrina
+- [Grupo 2: NumPy](https://guilhermenb.github.io/numpy/): Lucas de Melo, Guilherme Neckel e Sabrina
     - Conceitos básicos, arrays/matrizes e geração de números aleatórios
 - [Grupo 3: MatPlotLib](EPS7001_Trabalhos_2020-1/ex_introR.html): Luisa Maestrelli, Kárin e Alícia
     - Pacote pyplot
