@@ -24,7 +24,7 @@ Se não conseguirmos no moodle!
     - Conceitos básicos e disponibilização de html (github pages)
 - [Grupo 2: NumPy](https://guilhermenb.github.io/numpy/): Lucas de Melo, Guilherme Neckel e Sabrina
     - Conceitos básicos, arrays/matrizes e geração de números aleatórios
-- [Grupo 3: MatPlotLib Dia 01/12](EPS7001_Trabalhos_2020-1/ex_introR.html): Luisa Maestrelli, Kárin e Alícia
+- [Grupo 3: MatPlotLib Dia 01/12](https://luisamaestrelli.github.io/matplotlib.github.io/): Luisa Maestrelli, Kárin e Alícia
     - Pacote pyplot
 - [Grupo 4: Networkx - Dia 7/12](EPS7001_Trabalhos_2020-1/ex_introR.html): Rodrigo, Arthur e Eduardo Letti
     - Criação e plotagem de grafos
