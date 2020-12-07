@@ -28,7 +28,7 @@ Se não conseguirmos no moodle!
     - Pacote pyplot
 - [Grupo 4: Networkx - Dia 7/12](https://github.com/FordPrefect12/NetworkX.github.io.git): Rodrigo, Arthur e Eduardo Letti
     - Criação e plotagem de grafos
-- [Grupo 5: Plotnine - Dia 7/12](EPS7001_Trabalhos_2020-1/ex_introR.html): Luiz Henrique, Felipe Oliveira e Eduardo Daniel
+- [Grupo 5: Plotnine - Dia 7/12](https://docs.google.com/presentation/d/1DmGosthaguE9aMvuLeTJvDhrDaCoP8k1Q9V4hT4GL7g/edit#slide=id.p): Luiz Henrique, Felipe Oliveira e Eduardo Daniel
     - Alternativa ao MatPlotLib
     - Conceitos básicos
 - [Grupo 6: Simpy - Dia 7/12](https://danielabirck.github.io/Simpy/): Daniela, Tainá e Vitória
