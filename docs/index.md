@@ -10,11 +10,12 @@ Essa é uma página de auxiliar para apoio aos cursos EPS7000/EPS7001 do Prof. E
 
 ----
 ## EPS7000
-Aula 01/Set(1510hs) usará o link abaixo:
+Aula 02/02(1510hs) usará o link abaixo:
+Se não conseguirmos no moodle!
 > Link alternativo ativo: 3. **Jit.si EXTERNO**
 
 ## EPS7001
-Próxima aula síncrona 19/Out.
+Próxima aula síncrona 01/02- 10:10hs.
 Se não conseguirmos no moodle!
 > Link alternativo ativo: 3. **Jit.si EXTERNO**
 
