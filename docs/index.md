@@ -20,18 +20,18 @@ Se não conseguirmos no moodle!
 
 ### Links para trabalhos EPS7001
 
-- [Grupo 1: GitHub](https://mariaeugeniamartins.github.io): Ana Cortes, Bárbara e Maria Eugênia
+- [Grupo 1: GitHub](https://): Xxxxx, Xxxx, Xxxxx
     - Conceitos básicos e disponibilização de html (github pages)
-- [Grupo 2: NumPy](https://guilhermenb.github.io/numpy/): Lucas de Melo, Guilherme Neckel e Sabrina
+- [Grupo 2: NumPy](https://): Xxxxx, Xxxx, Xxxxx
     - Conceitos básicos, arrays/matrizes e geração de números aleatórios
-- [Grupo 3: MatPlotLib Dia 01/12](https://luisamaestrelli.github.io/matplotlib.github.io/): Luisa Maestrelli, Kárin e Alícia
+- [Grupo 3: MatPlotLib Dia 01/12](https://): Xxxxx, Xxxx, Xxxxx
     - Pacote pyplot
-- [Grupo 4: Networkx - Dia 7/12](https://github.com/FordPrefect12/NetworkX.github.io.git): Rodrigo, Arthur e Eduardo Letti
+- [Grupo 4: Networkx - Dia 7/12](https://): Xxxxx, Xxxx, Xxxxx
     - Criação e plotagem de grafos
-- [Grupo 5: Plotnine - Dia 7/12](https://docs.google.com/presentation/d/1DmGosthaguE9aMvuLeTJvDhrDaCoP8k1Q9V4hT4GL7g/edit#slide=id.p): Luiz Henrique, Felipe Oliveira e Eduardo Daniel
+- [Grupo 5: Plotnine - Dia 7/12](https://): Xxxxx, Xxxx, Xxxxx
     - Alternativa ao MatPlotLib
     - Conceitos básicos
-- [Grupo 6: Simpy - Dia 7/12](https://danielabirck.github.io/Simpy/): Daniela, Tainá e Vitória
+- [Grupo 6: Simpy - Dia 7/12](https://): Xxxxx, Xxxx, Xxxxx
 - [Grupo 7: --](EPS7001_Trabalhos_2020-1/ex_introR.html): 
 
 
