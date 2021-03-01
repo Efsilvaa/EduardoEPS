@@ -7,6 +7,7 @@ Essa é uma página de auxiliar para apoio aos cursos EPS7000/EPS7001 do Prof. E
 1. [RNP](https://conferenciaweb.rnp.br/webconf/eduardo-ferreira-da): Rede Nacional RNP       
 2. [Jit.si SETIC](https://reunioes.setic.ufsc.br/EduardoFSilva):  Jit.si instalado em servidores SETIC
 3. [Jit.si EXTERNO](https://meet.jit.si/EduardoFSilva):Jit.si externo, independente
+4. [Google Meet](https://meet.google.com/bpp-hobw-xqa): (Acesso via GSuite. Usar email UFSC); 
 
 ----
 ## EPS7000
