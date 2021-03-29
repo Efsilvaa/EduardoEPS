@@ -7,18 +7,18 @@ Essa é uma página de auxiliar para apoio aos cursos EPS7000/EPS7001 do Prof. E
 1. [RNP](https://conferenciaweb.rnp.br/webconf/eduardo-ferreira-da): Rede Nacional RNP       
 2. [Jit.si SETIC](https://reunioes.setic.ufsc.br/EduardoFSilva):  Jit.si instalado em servidores SETIC
 3. [Jit.si EXTERNO](https://meet.jit.si/EduardoFSilva):Jit.si externo, independente
-4. [Google Meet](https://meet.google.com/bpp-hobw-xqa): (Acesso via GSuite. Usar email UFSC); 
+4. [Google Meet](https://meet.google.com/bpp-hobw-xqa): (De preferência, usar email UFSC); 
 
 ----
 ## EPS7000
 Aula 02/02(1510hs) usará o link abaixo:
 Se não conseguirmos no moodle!
-> Link alternativo ativo: 3. **Jit.si EXTERNO**
+> Link alternativo ativo: 4. **Google Meet**
 
 ## EPS7001
-Próxima aula síncrona 01/02- 10:10hs.
+Próxima aula síncrona 30/03- 10:10hs.
 Se não conseguirmos no moodle!
-> Link alternativo ativo: 3. **Jit.si EXTERNO**
+> Link alternativo ativo: 4. **Google Meet**
 
 ### Links para trabalhos EPS7001
 
