@@ -16,7 +16,7 @@ Se não conseguirmos no moodle!
 > Link alternativo ativo: 4. **Google Meet**
 
 ## EPS7001
-Próxima aula síncrona 30/03- 13:30hs.
+Próxima aula síncrona 05/04- 10:10hshs.
 Se não conseguirmos no moodle!
 > Link alternativo ativo: 4. **Google Meet**
 
