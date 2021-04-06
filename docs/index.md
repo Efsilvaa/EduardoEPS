@@ -22,18 +22,18 @@ Se não conseguirmos no moodle!
 
 ### Links para trabalhos EPS7001
 
-- [Grupo 1: GitHub](https://): Xxxxx, Xxxx, Xxxxx
+- [Grupo 1: GitHub](https://) Dia 19/04: Alícia, Jéssica
     - Conceitos básicos e disponibilização de html (github pages)
-- [Grupo 2: NumPy](https://): Xxxxx, Xxxx, Xxxxx
+- [Grupo 2: NumPy](https://) Dia 19/04: Júlia, Pedro Bellani, João Henrique
     - Conceitos básicos, arrays/matrizes e geração de números aleatórios
-- [Grupo 3: MatPlotLib Dia 01/12](https://): Xxxxx, Xxxx, Xxxxx
+- [Grupo 3: MatPlotLib Dia 26/04](https://): Bruno Rene, Vinícius de Souza
     - Pacote pyplot
-- [Grupo 4: Networkx - Dia 7/12](https://): Xxxxx, Xxxx, Xxxxx
+- [Grupo 4: Networkx - Dia 26/04](https://): Xxxxx, Xxxx, Xxxxx
     - Criação e plotagem de grafos
-- [Grupo 5: Plotnine - Dia 7/12](https://): Xxxxx, Xxxx, Xxxxx
+- [Grupo 5: Plotnine - Dia 03/05](https://): Xxxxx, Xxxx, Xxxxx
     - Alternativa ao MatPlotLib
     - Conceitos básicos
-- [Grupo 6: Simpy - Dia 7/12](https://): Xxxxx, Xxxx, Xxxxx
+- [Grupo 6: Simpy - Dia 03/05](https://): Xxxxx, Xxxx, Xxxxx
 - [Grupo 7: --](EPS7001_Trabalhos_2020-1/ex_introR.html): 
 
 
