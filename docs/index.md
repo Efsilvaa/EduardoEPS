@@ -26,11 +26,11 @@ Se não conseguirmos no moodle!
     - Conceitos básicos e disponibilização de html (github pages)
 - [Grupo 2: NumPy](https://colab.research.google.com/drive/1_z0mIbZ0qz-iqL3sqXOzgEw9q4cSVIeg?usp=sharing) Dia 19/04: Júlia, Pedro Bellani, João Henrique
     - Conceitos básicos, arrays/matrizes e geração de números aleatórios
-- [Grupo 3: MatPlotLib Dia 26/04](https://): Bruno Rene, Vinícius de Souza
+- [Grupo 3: MatPlotLib Dia 26/04](https://): Bruno Rene, Vinícius de Souza, Luiz Gustavo
     - Pacote pyplot
-- [Grupo 4: Networkx - Dia 26/04](https://): Xxxxx, Xxxx, Xxxxx
+- [Grupo 4: Networkx - Dia 26/04](https://): Guilherme Pereira, Xxxx
     - Criação e plotagem de grafos
-- [Grupo 5: Plotnine - Dia 03/05](https://): Xxxxx, Xxxx, Xxxxx
+- [Grupo 5: Plotnine - Dia 03/05](https://): Daniel, Letícia
     - Alternativa ao MatPlotLib
     - Conceitos básicos
 - [Grupo 6: Simpy - Dia 03/05](https://): Xxxxx, Xxxx, Xxxxx
