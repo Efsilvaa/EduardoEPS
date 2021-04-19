@@ -22,7 +22,7 @@ Se não conseguirmos no moodle!
 
 ### Links para trabalhos EPS7001
 
-- [Grupo 1: GitHub](https://) Dia 19/04: Alícia, Jéssica
+- [Grupo 1: GitHub](https://alvesfukumasa.github.io/AlvesFukumasa.github.io./) Dia 19/04: Alícia, Jéssica
     - Conceitos básicos e disponibilização de html (github pages)
 - [Grupo 2: NumPy](https://) Dia 19/04: Júlia, Pedro Bellani, João Henrique
     - Conceitos básicos, arrays/matrizes e geração de números aleatórios
