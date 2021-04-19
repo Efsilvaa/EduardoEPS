@@ -24,7 +24,7 @@ Se não conseguirmos no moodle!
 
 - [Grupo 1: GitHub](https://alvesfukumasa.github.io/AlvesFukumasa.github.io./) Dia 19/04: Alícia, Jéssica
     - Conceitos básicos e disponibilização de html (github pages)
-- [Grupo 2: NumPy](https://) Dia 19/04: Júlia, Pedro Bellani, João Henrique
+- [Grupo 2: NumPy](https://colab.research.google.com/drive/1_z0mIbZ0qz-iqL3sqXOzgEw9q4cSVIeg?usp=sharing) Dia 19/04: Júlia, Pedro Bellani, João Henrique
     - Conceitos básicos, arrays/matrizes e geração de números aleatórios
 - [Grupo 3: MatPlotLib Dia 26/04](https://): Bruno Rene, Vinícius de Souza
     - Pacote pyplot
