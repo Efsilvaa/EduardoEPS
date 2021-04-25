@@ -28,9 +28,9 @@ Se não conseguirmos no moodle!
     - Conceitos básicos, arrays/matrizes e geração de números aleatórios
 - [Grupo 3: MatPlotLib Dia 26/04](https://): Bruno Rene, Vinícius de Souza, Luiz Gustavo
     - Pacote pyplot
-- [Grupo 4: Networkx - Dia 26/04](https://): Guilherme Pereira, Xxxx
+- [Grupo 4: Networkx - Dia 26/04](https://): Guilherme Pereira, Daniel, Letícia
     - Criação e plotagem de grafos
-- [Grupo 5: Plotnine - Dia 03/05](https://): Daniel, Letícia
+- [Grupo 5: Plotnine - Dia 03/05](https://): xxx
     - Alternativa ao MatPlotLib
     - Conceitos básicos
 - [Grupo 6: Simpy - Dia 03/05](https://): Xxxxx, Xxxx, Xxxxx
