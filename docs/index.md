@@ -10,25 +10,23 @@ Essa é uma página de auxiliar para apoio aos cursos EPS7000/EPS7001 do Prof. E
 4. [Google Meet](https://meet.google.com/bpp-hobw-xqa): (De preferência, usar email UFSC); 
 
 ----
-## EPS7000
-Aula 02/02(1510hs) usará o link abaixo:
-Se não conseguirmos no moodle!
-> Link alternativo ativo: 4. **Google Meet**
 
 ## EPS7001
-Próxima aula síncrona 05/04- 10:10hshs.
+Próxima aula síncrona 14/06 - Link Principal
+    Turma 2213 - 10:10hs
+    Turma 2212 - 13:30hs.
 Se não conseguirmos no moodle!
 > Link alternativo ativo: 4. **Google Meet**
 
 ### Links para trabalhos EPS7001
 
-- [Grupo 1: GitHub](https://alvesfukumasa.github.io/AlvesFukumasa.github.io./) Dia 19/04: Alícia, Jéssica
+- [Grupo 1: GitHub](https://) Dia :
     - Conceitos básicos e disponibilização de html (github pages)
-- [Grupo 2: NumPy](https://colab.research.google.com/drive/1_z0mIbZ0qz-iqL3sqXOzgEw9q4cSVIeg?usp=sharing) Dia 19/04: Júlia, Pedro Bellani, João Henrique
+- [Grupo 2: NumPy](https://) Dia /: xxx
     - Conceitos básicos, arrays/matrizes e geração de números aleatórios
-- [Grupo 3: MatPlotLib Dia 26/04](https://): Bruno Rene, Vinícius de Souza, Luiz Gustavo
+- [Grupo 3: MatPlotLib Dia 26/04](https://): xxx
     - Pacote pyplot
-- [Grupo 4: Networkx - Dia 27/04](https://colab.research.google.com/drive/1q_x3oj2TTXBaViuhdxk75e1MBus6aj6l#scrollTo=XzIjI3WwUhPV): Guilherme Pereira, Daniel, Letícia
+- [Grupo 4: Networkx - Dia 27/04](https://): xxx
     - Criação e plotagem de grafos
 - [Grupo 5: Plotnine - Dia 03/05](https://): xxx
     - Alternativa ao MatPlotLib
@@ -40,6 +38,11 @@ Se não conseguirmos no moodle!
 ----
 
 ## Desconsiderar informações abaixo 
+
+## EPS7000
+
+> Link alternativo ativo: 
+
 
 Welcome to GitHub Pages
 
