@@ -13,9 +13,9 @@ Essa é uma página de auxiliar para apoio aos cursos EPS7000/EPS7001 do Prof. E
 
 ## EPS7001
 
-Próxima aula síncrona 14/06 - Link Principal
-- Turma 2213 - 10:10hs
-- Turma 2212 - 13:30hs.
+Próxima aula síncrona ___ - Link Principal
+- Turma 2213:  Terças e Quintas  - 10:10hs 
+- Turma 2214:  Quartas e Quintas - 08:20hs
 
 Se não conseguirmos no moodle!
 > Link alternativo ativo: 4. **Google Meet**
